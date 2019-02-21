@@ -1,7 +1,7 @@
 
 
 # UserExperior Integration
-# Android - Cordova/Ionic
+# Cordova/Ionic
 
 ## A. Integration
 
